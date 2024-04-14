@@ -1,0 +1,29 @@
+{
+  "name": "hu16veeconvert",
+  "version": "1.0.0",
+  "description": "hu16veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italiandevazierdo/hu16veeconvert.git"
+  },
+  "keywords": [
+    "hu16veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "italiandevazierdo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/italiandevazierdo/hu16veeconvert/issues"
+  },
+  "homepage": "https://github.com/italiandevazierdo/hu16veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
